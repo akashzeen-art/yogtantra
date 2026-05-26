@@ -18,13 +18,13 @@ export default function About() {
                 About <span className="text-purple-500">Us</span>
               </h1>
               <p className="text-2xl text-white/90 font-semibold">
-                Yogtantra. Its Entertaining, Engaging &amp; Skillful Yoga Learning VoD Service
+                Welcome to eYoga – Your Digital Gateway to Holistic Wellness
               </p>
             </div>
 
             <div className="bg-white/10 backdrop-blur-md rounded-2xl border border-white/20 p-8 sm:p-12 space-y-6 animate-fade-in">
               <p className="text-lg text-white/90 leading-relaxed">
-                At Yogtantra, we believe that wellness should be accessible, flexible, and empowering. That's why we created a modern Video-on-Demand (VOD) yoga platform designed to bring the benefits of yoga directly to your screen — anytime, anywhere.
+                At eYoga, we believe that wellness should be accessible, flexible, and empowering. That's why we created a modern Video-on-Demand (VOD) yoga platform designed to bring the benefits of yoga directly to your screen — anytime, anywhere.
               </p>
 
               <p className="text-lg text-white/90 leading-relaxed">
@@ -32,7 +32,7 @@ export default function About() {
               </p>
 
               <p className="text-lg text-white/90 leading-relaxed">
-                As a VOD (Video-on-Demand) yoga subscription service, Yogtantra bridges the gap between traditional yoga practice and the demands of today's digital lifestyle. No more fixed schedules or crowded studios — just pure, uninterrupted yoga whenever you need it.
+                As a VOD (Video-on-Demand) yoga subscription service, eYoga bridges the gap between traditional yoga practice and the demands of today's digital lifestyle. No more fixed schedules or crowded studios — just pure, uninterrupted yoga whenever you need it.
               </p>
 
               <div className="bg-purple-500/20 rounded-xl p-6 my-8 border border-purple-400/30">
@@ -43,7 +43,7 @@ export default function About() {
               </div>
 
               <p className="text-xl text-white font-semibold text-center pt-4">
-                Join the Yogtantra movement today — and let's breathe, move, and grow together.
+                Join the eYoga movement today — and let's breathe, move, and grow together.
               </p>
             </div>
 
