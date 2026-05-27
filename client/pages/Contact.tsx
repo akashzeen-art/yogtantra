@@ -31,7 +31,7 @@ export default function Contact() {
                   <div>
                     <h3 className="text-xl font-semibold text-white mb-2">Address</h3>
                     <p className="text-white/80 text-lg">
-                      Sector 54, Gurgaon, Haryana, 122011
+                      B-123, SUNCITY, SECTOR-54, Gurgaon, Haryana, 122011
                     </p>
                   </div>
                 </div>
